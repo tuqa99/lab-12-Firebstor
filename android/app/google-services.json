@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "370927389433",
+    "project_id": "fire-store-d99af",
+    "storage_bucket": "fire-store-d99af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370927389433:android:49a2be7255108a14e73028",
+        "android_client_info": {
+          "package_name": "com.example.firestorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370927389433-6icja82c8lq0c2c6qrqloghfcmap74s5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBukO1Pu2RMx4Gxjnxo8wFHj36M_i-owno"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "370927389433-6icja82c8lq0c2c6qrqloghfcmap74s5.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "370927389433-atrbc4q2mtq9t3uihdgokje0iskk46md.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.firestorapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
